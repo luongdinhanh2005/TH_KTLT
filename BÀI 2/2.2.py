@@ -1,5 +1,5 @@
 print("luong dinh anh")
-print("mssv235752021610008"
+print("mssv235752021610008")
 import math;
 x1 = int (input("Enter x1--->"))
 y1 = int (input("Enter y1--->"))
